@@ -4,7 +4,7 @@ Repo de materiales y proyectos de la asignatura **EDA2** del [Grado de Ingenier�
 
 ## Curso [25][26]
 
-- [Temario](https://github.com/mmasias/EDA2)
+- [Temario](https://github.com/mmasias/EDA2?tab=readme-ov-file#c%C3%B3mo)
   - [A día de hoy, deberíamos saber...](temario/aDiaDeHoy.md)
   - [Casos de uso](temario/casosDeUso/README.md)
   - [Ejercicios](temario/ejercicios/README.md)
